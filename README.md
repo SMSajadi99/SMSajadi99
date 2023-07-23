@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seyed Mohammad Sajadi</h1>
 <h3 align="center">I'm studying in the Department of Electronic Engineering at the Sharif University of Technology, and I'm interested in programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e67696](https://nishoak.netlify.app/static/media/landing.1ea1501b793c2d8b96f8.gif">
+<img align="right" alt="Coding" width="400" src="https://nishoak.netlify.app/static/media/landing.1ea1501b793c2d8b96f8.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsajadi99&label=Profile%20views&color=0e75b6&style=flat" alt="smsajadi99" /> </p>
