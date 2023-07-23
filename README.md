@@ -7,13 +7,14 @@
 <!--
 <p align="left"> <a href="https://twitter.com/ee_sajadi" target="blank"><img src="https://img.shields.io/twitter/follow/ee_sajadi?logo=twitter&style=for-the-badge" alt="ee_sajadi" /></a> </p>
 -->
+
 - 🔭 I’m currently working on **Sensor Fusion**
 
 - 🌱 I’m currently learning **Torch & CV2**
 
 - 📫 How to reach me **sajadi.ee.sut@gmail.com**
 
-- ⚡ Fun fact **I'm happy and gratful**
+- ⚡ Fun fact **I'm happy and grateful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
