@@ -2,7 +2,6 @@
 <h3 align="center">I'm studying in the Department of Electronic Engineering at the Sharif University of Technology, and I'm interested in programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://nishoak.netlify.app/static/media/landing.1ea1501b793c2d8b96f8.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsajadi99&label=Profile%20views&color=0e75b6&style=flat" alt="smsajadi99" /> </p>
 <!--
 <p align="left"> <a href="https://twitter.com/ee_sajadi" target="blank"><img src="https://img.shields.io/twitter/follow/ee_sajadi?logo=twitter&style=for-the-badge" alt="ee_sajadi" /></a> </p>
