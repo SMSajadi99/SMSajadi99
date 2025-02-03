@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Seyed Mohammad Sajadi</h1>
 <h3 align="center">I'm studying in the Department of Electronic Engineering at the Sharif University of Technology, and I'm interested in programming.</h3>
 
+# 💫 About Me:
+🏗️ I'm currently working on: Preparing for the PhD entrance exam in Electrical Engineering (Electronics specialization) and researching for my conference paper on photonic integrated circuits.  <br>🧑‍🤝‍🧑 I'm looking to collaborate on: Projects related to the design and simulation of photonic integrated circuits, especially nonlinear microring resonators and Mach-Zehnder interferometers.  <br>🤝 I'm looking for help with: Optimizing the fabrication process of silicon-based optical waveguides with an SU-8 cladding layer and strategies for excelling in the PhD entrance exam.  <br>🌱 I'm currently learning: Advanced concepts in electronics and circuit analysis for my exam, along with new simulation techniques in Lumerical and gdsfactory.  <br>💬 Ask me about: Photonic integrated circuits, optical waveguide simulations, and my experience as a teaching assistant in logic circuit exercises.  <br>⚡ Fun fact: I once spent hours debugging a simulation, only to realize I had a missing decimal point. Precision is everything in photonics! 😅  <br>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyedmohammadsajadi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15032271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ee_sajadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seyedmohammad.sajadi@sharif.edu) 
 
