@@ -22,7 +22,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smsajadi99&show_icons=true&locale=en" alt="smsajadi99" width="50%" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsajadi99&" alt="smsajadi99" width="50%" />
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
