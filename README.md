@@ -26,9 +26,6 @@ Photonic Integrated Circuits (PICs), silicon photonics, optical waveguide simula
 - M.Sc. in Electrical Engineering — Shahid Beheshti University  
 - B.Sc. in Electrical Engineering — Sharif University of Technology
 
-⚡ **Fun fact:**  
-In photonics, even a tiny dimensional error or a missing decimal point can completely shift the resonance wavelength — precision truly defines everything. 😅
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyedmohammadsajadi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15032271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ee_sajadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sm.sajadi@aut.ac.ir) 
