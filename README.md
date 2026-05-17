@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seyed Mohammad Sajadi</h1>
-<h3 align="center">I'm studying in the Department of Electronic Engineering at the Sharif University of Technology, and I'm interested in programming.</h3>
 
 # 💫 About Me:
 
